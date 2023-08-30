@@ -1,0 +1,26 @@
+gender,hypertension,heart_disease,ever_married,work_type,Residence_type,smoking_status,stroke
+Female,0,0,Yes,Private,Rural,formerly smoked,0
+Male,0,0,Yes,Private,Rural,Unknown,0
+Male,0,1,Yes,Self-employed,Urban,smokes,1
+Male,0,0,Yes,Private,Rural,formerly smoked,0
+Male,1,0,Yes,Private,Urban,smokes,0
+Male,0,0,Yes,Private,Rural,Unknown,1
+Female,1,0,Yes,Self-employed,Urban,never smoked,1
+Male,0,1,Yes,Self-employed,Urban,formerly smoked,0
+Male,0,0,No,Govt_job,Urban,never smoked,1
+Female,1,1,No,Private,Rural,formerly smoked,1
+Male,0,0,Yes,Private,Rural,formerly smoked,1
+Female,1,0,Yes,Private,Rural,formerly smoked,0
+Male,0,0,No,Private,Rural,Unknown,1
+Female,0,0,Yes,Private,Urban,never smoked,0
+Male,0,0,Yes,Private,Rural,formerly smoked,1
+Male,0,0,Yes,Private,Urban,never smoked,0
+Male,0,1,Yes,Private,Urban,smokes,0
+Female,0,0,Yes,Private,Urban,formerly smoked,1
+Male,1,0,Yes,Govt_job,Urban,smokes,1
+Male,1,0,Yes,Private,Rural,never smoked,0
+Female,0,1,No,Self-employed,Urban,Unknown,1
+Female,0,0,Yes,Private,Urban,formerly smoked,1
+Male,0,0,Yes,Self-employed,Urban,never smoked,0
+Female,1,0,Yes,Private,Rural,smokes,1
+Female,0,0,No,Private,Urban,Unknown,1
